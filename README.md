@@ -10,5 +10,8 @@
     - Algorithms used: Gradient descent based(Linear, lasso), Tree based(random forest), ensemble models( gradient boosting, XGBoost)
     - Evaluation metrics & Loss functions: RMSE, MSE,MAE, as loss functions and r2 accuracy score i sued fro evaluation. 
                                             XGBoost achieved highest r2 accuracy score of 0.9259
--
+
 ### Prediction of Compressive Strength of Concrete
+
+- Dataset: https://github.com/SH00git/Regression/blob/main/P6.0compresive_strength_concrete.csv
+- Code: 
