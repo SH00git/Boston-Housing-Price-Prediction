@@ -14,4 +14,5 @@
 ### Prediction of Compressive Strength of Concrete
 
 - Dataset: https://github.com/SH00git/Regression/blob/main/P6.0compresive_strength_concrete.csv
-- Code: 
+- Code: https://github.com/SH00git/Regression/blob/main/P6.0Predictive%20Analytics%20of%20Compressive%20Stength%20of%20Concrete%20.ipynb
+      - Data Visualisation:
